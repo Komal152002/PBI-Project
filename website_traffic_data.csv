@@ -1,0 +1,501 @@
+Visitor_ID,Age,Location,Device,Traffic_Source,Page_Viewed,Page_Views,Time_on_Page,Bounce_Rate,Exit_Rate,Conversion_Stage
+1,35-44,Canada,Tablet,Organic,Contact,8,235.96,1,1,Visited Page
+2,45-54,Canada,Tablet,Social,Blog,2,155.66,1,0,Added to Cart
+3,55+,UK,Desktop,Paid,Contact,4,203.68,1,0,Added to Cart
+4,55+,Australia,Tablet,Social,Blog,4,144.44,0,0,Visited Page
+5,55+,USA,Mobile,Referral,Home,9,60.01,1,0,Purchased
+6,45-54,USA,Desktop,Social,About Us,9,220.26,0,0,Checkout
+7,25-34,Australia,Desktop,Paid,Product,4,182.57,0,1,Visited Page
+8,35-44,Canada,Mobile,Organic,Blog,2,22.96,1,0,Checkout
+9,35-44,India,Desktop,Organic,Blog,4,143.3,0,0,Visited Page
+10,18-24,Australia,Tablet,Referral,Home,2,191.65,1,0,Checkout
+11,35-44,Australia,Desktop,Paid,Product,7,53.29,0,1,Added to Cart
+12,35-44,USA,Mobile,Paid,Home,3,160.78,0,0,Purchased
+13,18-24,Canada,Mobile,Referral,Blog,8,21.93,0,0,Purchased
+14,18-24,Germany,Mobile,Social,Home,1,278.66,0,1,Visited Page
+15,25-34,India,Desktop,Paid,Home,8,299.09,1,0,Visited Page
+16,35-44,USA,Desktop,Referral,Blog,2,268.82,1,0,Visited Page
+17,25-34,USA,Mobile,Referral,Product,5,123.2,1,0,Visited Page
+18,35-44,Australia,Desktop,Social,Blog,1,249.19,0,0,Visited Page
+19,45-54,UK,Desktop,Social,About Us,8,147.64,1,0,Added to Cart
+20,35-44,Germany,Desktop,Paid,Contact,9,180.65,0,0,Added to Cart
+21,25-34,Canada,Mobile,Paid,Contact,1,216.45,0,0,Purchased
+22,35-44,UK,Desktop,Paid,Blog,8,25.61,0,0,Purchased
+23,35-44,Canada,Tablet,Organic,About Us,1,231.11,1,0,Added to Cart
+24,55+,India,Mobile,Social,Blog,2,135.25,0,0,Visited Page
+25,55+,Australia,Mobile,Organic,Blog,2,232.05,1,0,Added to Cart
+26,45-54,Germany,Desktop,Referral,Blog,7,180.85,0,0,Purchased
+27,25-34,UK,Mobile,Referral,Contact,1,183.53,0,0,Added to Cart
+28,45-54,UK,Mobile,Social,Home,7,97.52,0,0,Checkout
+29,35-44,Canada,Desktop,Social,About Us,7,12.94,0,1,Checkout
+30,35-44,India,Tablet,Social,Contact,3,59.03,1,0,Purchased
+31,55+,UK,Mobile,Referral,Home,2,161.25,1,0,Visited Page
+32,55+,UK,Mobile,Paid,Product,8,85.37,0,0,Added to Cart
+33,55+,Canada,Desktop,Paid,Product,2,187.96,0,0,Visited Page
+34,18-24,USA,Mobile,Organic,Home,7,107.27,1,0,Visited Page
+35,35-44,USA,Mobile,Social,About Us,9,75.27,0,0,Visited Page
+36,55+,Australia,Tablet,Paid,Product,3,271.26,0,0,Visited Page
+37,55+,UK,Desktop,Organic,Contact,8,263.26,0,0,Visited Page
+38,45-54,Germany,Tablet,Social,Blog,7,83.14,0,0,Added to Cart
+39,18-24,UK,Tablet,Referral,About Us,8,216.03,0,0,Checkout
+40,18-24,Canada,Tablet,Organic,Contact,4,191.39,0,0,Checkout
+41,18-24,Germany,Tablet,Paid,Contact,7,230.23,0,0,Visited Page
+42,35-44,UK,Desktop,Referral,About Us,9,191.09,0,0,Added to Cart
+43,45-54,Germany,Desktop,Organic,Contact,1,132.34,0,0,Visited Page
+44,25-34,Germany,Tablet,Organic,About Us,4,274.19,1,0,Checkout
+45,25-34,India,Mobile,Referral,Blog,5,95.39,1,0,Checkout
+46,18-24,Canada,Mobile,Organic,Product,8,259.04,0,0,Added to Cart
+47,35-44,USA,Tablet,Social,Home,5,168.71,0,1,Purchased
+48,25-34,Australia,Tablet,Paid,Blog,5,52.2,1,0,Checkout
+49,55+,India,Mobile,Social,Contact,1,222.54,0,0,Visited Page
+50,45-54,Germany,Desktop,Referral,About Us,5,271.91,0,1,Visited Page
+51,18-24,Australia,Mobile,Organic,Contact,5,110.04,0,0,Visited Page
+52,18-24,Australia,Mobile,Referral,Product,6,128.16,1,1,Added to Cart
+53,25-34,USA,Tablet,Paid,About Us,4,108.89,0,0,Visited Page
+54,25-34,India,Mobile,Referral,Product,2,109.31,0,0,Visited Page
+55,35-44,India,Desktop,Paid,Contact,4,108.27,0,0,Visited Page
+56,45-54,India,Tablet,Organic,Product,5,154.05,0,0,Visited Page
+57,25-34,Canada,Mobile,Paid,Contact,5,278.97,0,0,Visited Page
+58,18-24,Germany,Desktop,Referral,Product,4,249.39,0,0,Visited Page
+59,55+,USA,Tablet,Paid,Product,9,113.12,0,1,Added to Cart
+60,25-34,Canada,Desktop,Paid,Contact,7,138.21,1,1,Visited Page
+61,55+,USA,Desktop,Paid,Home,4,110.4,0,0,Visited Page
+62,25-34,India,Mobile,Organic,Home,9,32.48,1,0,Visited Page
+63,18-24,Australia,Mobile,Organic,About Us,1,288.27,0,0,Visited Page
+64,45-54,Canada,Desktop,Paid,Home,3,206.87,0,0,Visited Page
+65,25-34,UK,Desktop,Paid,Product,5,183.29,0,0,Visited Page
+66,35-44,India,Desktop,Referral,Blog,6,214.82,0,1,Added to Cart
+67,45-54,USA,Desktop,Organic,Blog,5,286.79,0,0,Purchased
+68,45-54,Canada,Desktop,Social,About Us,3,290.78,0,0,Added to Cart
+69,55+,USA,Desktop,Organic,Blog,5,258.3,0,0,Checkout
+70,45-54,Australia,Tablet,Referral,About Us,3,139.33,0,0,Added to Cart
+71,55+,Australia,Desktop,Referral,Home,4,26.11,0,0,Visited Page
+72,25-34,UK,Tablet,Organic,Product,9,271.46,0,1,Purchased
+73,55+,Canada,Tablet,Referral,Contact,4,27.32,1,0,Checkout
+74,55+,Canada,Mobile,Organic,About Us,7,231.67,0,0,Visited Page
+75,25-34,India,Desktop,Organic,Home,3,147.02,0,0,Purchased
+76,45-54,Australia,Tablet,Social,Product,6,176.98,0,0,Added to Cart
+77,25-34,USA,Tablet,Paid,Product,8,114.57,0,0,Added to Cart
+78,25-34,USA,Desktop,Paid,Contact,3,277.32,1,0,Purchased
+79,55+,India,Desktop,Referral,Home,5,56.38,0,0,Visited Page
+80,18-24,India,Tablet,Organic,Home,3,289.5,1,0,Added to Cart
+81,25-34,Canada,Tablet,Social,Product,2,96.69,0,0,Checkout
+82,45-54,Germany,Desktop,Organic,Home,1,292.15,1,0,Visited Page
+83,55+,Canada,Mobile,Referral,Blog,6,94.56,1,1,Added to Cart
+84,25-34,UK,Desktop,Social,Home,6,219.98,1,0,Purchased
+85,25-34,India,Mobile,Organic,Blog,8,42.95,0,0,Visited Page
+86,25-34,Australia,Desktop,Organic,Contact,3,104.64,1,0,Visited Page
+87,35-44,Australia,Desktop,Paid,About Us,2,215.8,0,0,Visited Page
+88,45-54,Germany,Desktop,Social,Contact,5,231.56,1,0,Added to Cart
+89,45-54,Australia,Tablet,Paid,About Us,3,257.88,0,0,Checkout
+90,18-24,Germany,Tablet,Paid,Contact,3,186.84,0,0,Visited Page
+91,18-24,Australia,Tablet,Social,Home,1,13.58,0,1,Visited Page
+92,45-54,UK,Desktop,Social,About Us,8,32.02,0,0,Visited Page
+93,25-34,Germany,Tablet,Social,Product,5,11.28,1,0,Visited Page
+94,35-44,Australia,Mobile,Organic,Home,8,129.86,0,0,Visited Page
+95,55+,Canada,Tablet,Paid,Home,1,218.1,1,0,Added to Cart
+96,25-34,Australia,Mobile,Referral,About Us,8,277.53,0,1,Added to Cart
+97,45-54,India,Desktop,Paid,Home,1,39.6,0,0,Visited Page
+98,18-24,USA,Tablet,Organic,Home,4,218.6,1,0,Checkout
+99,45-54,Australia,Tablet,Paid,Home,3,266.16,0,0,Purchased
+100,45-54,India,Mobile,Paid,About Us,9,293.47,0,0,Checkout
+101,45-54,USA,Desktop,Organic,Blog,7,105.1,1,0,Visited Page
+102,55+,UK,Mobile,Organic,Blog,5,257.49,0,0,Visited Page
+103,25-34,UK,Mobile,Social,Contact,8,200.59,0,0,Purchased
+104,35-44,Germany,Tablet,Referral,Home,2,116.8,1,0,Visited Page
+105,55+,UK,Desktop,Referral,About Us,3,99.97,0,1,Added to Cart
+106,55+,India,Desktop,Paid,Blog,6,123.91,1,1,Visited Page
+107,55+,Germany,Mobile,Paid,Contact,4,195.47,0,1,Purchased
+108,45-54,Germany,Mobile,Paid,Blog,5,227.14,0,0,Visited Page
+109,45-54,India,Tablet,Organic,Contact,3,278.72,0,0,Visited Page
+110,25-34,Australia,Tablet,Referral,Product,9,243.5,1,0,Added to Cart
+111,25-34,Australia,Desktop,Organic,About Us,8,265.52,0,0,Visited Page
+112,25-34,Australia,Desktop,Social,About Us,5,112.86,0,0,Checkout
+113,18-24,UK,Tablet,Social,Home,9,209.85,0,1,Visited Page
+114,18-24,Germany,Tablet,Paid,About Us,4,295.01,0,1,Visited Page
+115,35-44,Germany,Tablet,Paid,Contact,2,57.79,0,0,Visited Page
+116,25-34,Canada,Mobile,Organic,Home,6,107.47,1,0,Visited Page
+117,18-24,Germany,Mobile,Paid,About Us,3,31.18,0,0,Visited Page
+118,55+,India,Tablet,Paid,Contact,9,282.86,1,0,Visited Page
+119,25-34,India,Desktop,Paid,About Us,6,30.82,0,0,Purchased
+120,25-34,UK,Desktop,Paid,Blog,9,295.08,0,0,Added to Cart
+121,55+,USA,Desktop,Organic,Product,3,128.98,0,0,Purchased
+122,35-44,USA,Desktop,Social,Product,3,95.85,0,0,Checkout
+123,45-54,USA,Mobile,Organic,Blog,6,206.19,1,0,Added to Cart
+124,45-54,Australia,Desktop,Paid,Home,3,84.59,0,0,Checkout
+125,35-44,USA,Mobile,Paid,Home,4,252.52,0,0,Added to Cart
+126,45-54,UK,Desktop,Organic,Contact,3,278.93,1,0,Visited Page
+127,25-34,UK,Desktop,Referral,Blog,4,207.03,1,0,Added to Cart
+128,18-24,Canada,Tablet,Paid,About Us,8,143.94,0,0,Visited Page
+129,25-34,Canada,Mobile,Paid,Product,8,255.99,0,0,Added to Cart
+130,25-34,UK,Mobile,Social,Contact,7,54.31,0,0,Visited Page
+131,35-44,India,Desktop,Organic,Product,3,87.05,0,0,Visited Page
+132,35-44,Germany,Tablet,Social,Blog,2,155.19,1,0,Visited Page
+133,35-44,India,Desktop,Referral,About Us,5,239.91,0,0,Added to Cart
+134,55+,Germany,Desktop,Paid,Blog,4,102.54,0,0,Added to Cart
+135,35-44,USA,Tablet,Paid,Blog,6,92.28,0,0,Visited Page
+136,45-54,India,Desktop,Paid,About Us,7,248.25,0,1,Visited Page
+137,45-54,UK,Desktop,Referral,Home,8,139.27,1,0,Purchased
+138,25-34,Germany,Mobile,Referral,Contact,8,109.99,0,0,Added to Cart
+139,55+,UK,Tablet,Paid,Home,3,16.2,1,0,Purchased
+140,45-54,USA,Tablet,Paid,Home,5,181.45,0,1,Checkout
+141,55+,USA,Mobile,Paid,Product,2,29.47,0,0,Added to Cart
+142,45-54,Canada,Tablet,Social,Home,3,157.33,1,0,Checkout
+143,25-34,Australia,Tablet,Organic,Product,6,200.76,0,0,Visited Page
+144,18-24,Germany,Desktop,Organic,Contact,6,251.16,1,0,Visited Page
+145,25-34,USA,Tablet,Organic,Product,3,191.77,0,0,Purchased
+146,35-44,UK,Tablet,Paid,Contact,1,49.7,0,1,Visited Page
+147,35-44,USA,Desktop,Organic,About Us,4,20.22,0,0,Added to Cart
+148,18-24,Germany,Tablet,Social,Product,3,34.46,0,0,Visited Page
+149,35-44,UK,Desktop,Social,Blog,7,274.06,0,0,Purchased
+150,45-54,India,Tablet,Organic,Home,4,138.83,1,0,Visited Page
+151,35-44,UK,Mobile,Referral,Blog,2,214.88,0,0,Checkout
+152,25-34,Canada,Tablet,Organic,Home,4,202.1,0,0,Visited Page
+153,55+,Australia,Desktop,Social,Contact,1,113.59,0,1,Visited Page
+154,45-54,India,Tablet,Social,Blog,5,208.15,1,0,Purchased
+155,18-24,Australia,Mobile,Referral,Home,1,145.6,0,0,Visited Page
+156,55+,Canada,Desktop,Referral,Blog,2,154.94,0,0,Checkout
+157,55+,Canada,Desktop,Paid,Home,9,112.81,1,1,Visited Page
+158,45-54,Canada,Tablet,Referral,Home,3,48.16,0,1,Visited Page
+159,45-54,USA,Mobile,Social,Product,7,162.08,0,0,Checkout
+160,35-44,UK,Mobile,Organic,Home,5,111.04,1,0,Checkout
+161,45-54,Australia,Mobile,Referral,Product,1,165.15,0,1,Visited Page
+162,45-54,Australia,Mobile,Organic,Blog,3,128.08,0,1,Purchased
+163,35-44,Canada,Desktop,Referral,Home,5,252.12,0,0,Checkout
+164,35-44,Germany,Desktop,Social,About Us,9,242.14,1,0,Added to Cart
+165,55+,UK,Mobile,Paid,About Us,8,296.84,1,0,Visited Page
+166,25-34,Australia,Tablet,Organic,Product,4,167.35,0,0,Added to Cart
+167,35-44,Canada,Desktop,Referral,Product,4,214.44,1,0,Visited Page
+168,55+,UK,Mobile,Organic,Contact,8,245.38,1,1,Purchased
+169,35-44,India,Mobile,Social,Home,2,102.18,0,1,Visited Page
+170,18-24,Australia,Mobile,Paid,Home,3,60.94,1,1,Visited Page
+171,25-34,Canada,Tablet,Organic,Home,4,73.57,0,0,Purchased
+172,35-44,UK,Desktop,Referral,Contact,9,246.21,0,1,Visited Page
+173,35-44,Germany,Tablet,Paid,About Us,7,297.28,0,0,Added to Cart
+174,45-54,India,Desktop,Referral,Contact,9,184.84,0,0,Visited Page
+175,45-54,USA,Desktop,Social,Home,5,218.88,0,0,Visited Page
+176,35-44,Australia,Mobile,Organic,Home,8,291.03,1,0,Visited Page
+177,45-54,Germany,Mobile,Organic,Home,4,139.64,0,0,Added to Cart
+178,18-24,UK,Desktop,Referral,Product,6,77.5,0,0,Visited Page
+179,35-44,Australia,Desktop,Referral,Blog,8,215.84,1,0,Visited Page
+180,25-34,UK,Mobile,Social,Product,7,107.31,0,1,Purchased
+181,18-24,Australia,Desktop,Paid,About Us,7,108.28,1,0,Visited Page
+182,45-54,Canada,Mobile,Social,Contact,3,30.12,1,0,Purchased
+183,18-24,USA,Desktop,Social,Product,5,171.63,1,0,Visited Page
+184,25-34,India,Tablet,Organic,Home,9,227.43,0,0,Checkout
+185,45-54,Canada,Mobile,Organic,Contact,7,218.84,1,0,Purchased
+186,45-54,India,Mobile,Organic,Home,1,155.06,0,0,Checkout
+187,18-24,Australia,Tablet,Paid,Blog,6,290.19,0,1,Visited Page
+188,25-34,Australia,Mobile,Social,Home,8,99.07,1,1,Visited Page
+189,25-34,Canada,Mobile,Paid,About Us,2,222.95,0,0,Purchased
+190,25-34,Canada,Tablet,Referral,Home,1,34.64,0,0,Added to Cart
+191,18-24,India,Mobile,Referral,About Us,8,248.69,1,0,Visited Page
+192,25-34,UK,Tablet,Paid,Contact,4,205.98,0,0,Purchased
+193,55+,UK,Desktop,Organic,Product,8,288.43,0,0,Added to Cart
+194,25-34,India,Desktop,Organic,Blog,2,103.16,0,0,Visited Page
+195,55+,Australia,Tablet,Referral,About Us,4,56.23,0,0,Visited Page
+196,45-54,Canada,Tablet,Referral,Contact,7,240.38,0,1,Visited Page
+197,25-34,UK,Desktop,Referral,Product,8,165.8,0,0,Added to Cart
+198,18-24,UK,Desktop,Social,Contact,2,175.71,0,0,Visited Page
+199,45-54,Canada,Tablet,Paid,Blog,2,85.45,1,0,Added to Cart
+200,35-44,USA,Tablet,Social,Home,8,262.99,0,0,Checkout
+201,35-44,UK,Desktop,Referral,About Us,1,34.75,0,0,Visited Page
+202,55+,India,Mobile,Paid,Home,7,172.2,0,0,Added to Cart
+203,18-24,Australia,Desktop,Referral,Product,1,60.71,1,0,Visited Page
+204,18-24,USA,Tablet,Referral,Contact,6,48.99,1,1,Added to Cart
+205,18-24,Australia,Desktop,Social,Home,2,46.39,0,0,Visited Page
+206,18-24,USA,Mobile,Paid,Home,5,33.07,0,1,Purchased
+207,45-54,USA,Tablet,Referral,Contact,6,127.72,0,0,Added to Cart
+208,18-24,USA,Desktop,Paid,Product,6,282.13,1,0,Visited Page
+209,25-34,UK,Mobile,Referral,Blog,1,104.14,1,0,Visited Page
+210,45-54,India,Mobile,Organic,Contact,5,94.97,0,0,Visited Page
+211,18-24,UK,Mobile,Social,Contact,5,44.42,1,0,Added to Cart
+212,55+,UK,Tablet,Referral,Home,5,13.14,1,0,Visited Page
+213,25-34,Canada,Mobile,Organic,About Us,3,157.07,0,0,Added to Cart
+214,55+,India,Mobile,Social,Home,9,141.13,0,0,Visited Page
+215,55+,UK,Desktop,Organic,Contact,9,32.78,1,0,Purchased
+216,45-54,Canada,Desktop,Paid,Blog,7,144.9,1,0,Purchased
+217,35-44,Australia,Desktop,Referral,Contact,3,16.42,0,1,Added to Cart
+218,45-54,India,Desktop,Organic,Contact,7,80.14,1,0,Visited Page
+219,25-34,USA,Desktop,Referral,Blog,9,16.61,1,0,Checkout
+220,25-34,Australia,Tablet,Paid,Contact,1,40.96,0,0,Added to Cart
+221,55+,India,Desktop,Referral,Home,7,90.34,0,0,Visited Page
+222,55+,USA,Desktop,Organic,Home,4,202.55,0,0,Visited Page
+223,18-24,Canada,Tablet,Paid,Contact,1,132.37,0,1,Checkout
+224,35-44,Australia,Desktop,Referral,About Us,6,93.3,0,0,Added to Cart
+225,35-44,USA,Desktop,Referral,Contact,6,82.55,1,0,Checkout
+226,55+,Canada,Desktop,Referral,Contact,5,117.05,0,0,Added to Cart
+227,45-54,USA,Desktop,Social,Product,9,236.83,0,0,Checkout
+228,55+,India,Desktop,Social,About Us,6,154.9,0,0,Visited Page
+229,18-24,UK,Desktop,Social,About Us,3,116.08,0,0,Added to Cart
+230,55+,UK,Mobile,Social,About Us,9,125.03,1,1,Added to Cart
+231,18-24,Canada,Desktop,Social,Blog,3,82.67,0,1,Added to Cart
+232,35-44,Australia,Tablet,Referral,Product,5,201.64,0,0,Visited Page
+233,35-44,USA,Tablet,Social,Contact,9,119.84,0,0,Added to Cart
+234,45-54,USA,Desktop,Referral,About Us,3,199.17,0,0,Added to Cart
+235,45-54,Canada,Mobile,Organic,Product,6,279.19,0,0,Checkout
+236,18-24,India,Mobile,Social,Blog,8,96.25,0,0,Purchased
+237,25-34,UK,Tablet,Paid,Contact,8,57.39,0,1,Visited Page
+238,25-34,Canada,Mobile,Social,Product,3,87.6,0,0,Visited Page
+239,45-54,India,Mobile,Organic,Contact,3,267.08,0,0,Checkout
+240,35-44,India,Tablet,Social,About Us,4,68.21,0,0,Visited Page
+241,25-34,Germany,Mobile,Paid,About Us,1,268.71,1,0,Added to Cart
+242,55+,Germany,Mobile,Organic,Contact,8,248.23,0,1,Visited Page
+243,25-34,USA,Mobile,Social,About Us,5,261.2,0,0,Purchased
+244,35-44,UK,Tablet,Social,Home,2,159.23,1,0,Visited Page
+245,25-34,Canada,Tablet,Organic,Product,9,271.13,0,1,Visited Page
+246,45-54,USA,Tablet,Paid,Product,5,172.33,0,0,Visited Page
+247,55+,Germany,Tablet,Paid,Product,9,78.8,0,0,Checkout
+248,25-34,Canada,Tablet,Organic,Contact,7,104.57,0,0,Visited Page
+249,45-54,Australia,Desktop,Organic,About Us,1,13.58,1,0,Visited Page
+250,45-54,Australia,Tablet,Social,Home,9,164.62,0,0,Visited Page
+251,18-24,Canada,Tablet,Referral,Contact,2,187.67,0,0,Visited Page
+252,18-24,Canada,Mobile,Organic,Product,9,80.68,0,0,Added to Cart
+253,25-34,India,Tablet,Paid,About Us,5,12.62,0,0,Added to Cart
+254,45-54,UK,Mobile,Paid,About Us,9,150.07,0,0,Added to Cart
+255,45-54,Australia,Tablet,Organic,About Us,3,231.3,0,0,Purchased
+256,35-44,Australia,Tablet,Referral,About Us,5,232.11,0,1,Purchased
+257,18-24,UK,Tablet,Paid,Home,7,51.44,1,1,Checkout
+258,45-54,Canada,Tablet,Paid,Blog,1,168.65,0,0,Visited Page
+259,25-34,India,Tablet,Referral,Home,1,160.45,0,0,Added to Cart
+260,25-34,India,Mobile,Paid,Home,1,35.28,0,0,Visited Page
+261,45-54,Australia,Desktop,Referral,Blog,3,210.68,0,0,Visited Page
+262,55+,USA,Mobile,Organic,Blog,7,183.57,1,1,Checkout
+263,35-44,USA,Mobile,Referral,Blog,4,69.96,0,0,Purchased
+264,55+,Canada,Mobile,Social,Contact,2,196.07,0,0,Visited Page
+265,25-34,India,Mobile,Social,Blog,1,194.94,0,0,Purchased
+266,18-24,India,Desktop,Referral,About Us,1,194.56,0,1,Visited Page
+267,35-44,USA,Desktop,Paid,Home,6,200.4,0,0,Visited Page
+268,25-34,Australia,Tablet,Paid,Contact,2,126.12,1,0,Added to Cart
+269,55+,Canada,Mobile,Paid,Product,7,64.6,1,0,Visited Page
+270,25-34,India,Desktop,Social,Blog,4,78.51,0,0,Visited Page
+271,55+,Australia,Desktop,Organic,Contact,8,89.15,1,0,Checkout
+272,45-54,Canada,Tablet,Social,About Us,1,119.23,1,0,Visited Page
+273,25-34,Germany,Desktop,Social,Product,6,110.75,0,0,Visited Page
+274,18-24,UK,Desktop,Paid,Contact,5,127.32,1,0,Visited Page
+275,18-24,USA,Tablet,Organic,Product,8,82.47,0,0,Visited Page
+276,55+,USA,Mobile,Paid,About Us,1,91.51,0,0,Visited Page
+277,25-34,UK,Tablet,Social,Home,7,186.88,1,1,Visited Page
+278,35-44,Germany,Mobile,Paid,Home,5,108.21,0,0,Purchased
+279,35-44,USA,Tablet,Social,Product,9,178.84,0,0,Visited Page
+280,35-44,Australia,Desktop,Organic,Contact,5,30.79,1,0,Purchased
+281,18-24,Germany,Tablet,Referral,About Us,4,196.35,0,0,Added to Cart
+282,55+,Germany,Mobile,Referral,Home,1,88.83,0,0,Visited Page
+283,25-34,USA,Mobile,Organic,Blog,2,93.05,1,0,Purchased
+284,18-24,USA,Mobile,Paid,Home,9,241.66,1,0,Visited Page
+285,18-24,Canada,Tablet,Referral,Blog,2,67.52,0,0,Visited Page
+286,45-54,USA,Desktop,Social,Home,6,294.48,1,0,Checkout
+287,35-44,USA,Mobile,Organic,Contact,7,231.18,0,0,Visited Page
+288,18-24,Canada,Tablet,Referral,Blog,5,156.07,0,0,Added to Cart
+289,55+,USA,Desktop,Organic,Contact,8,106.36,0,0,Visited Page
+290,45-54,USA,Mobile,Paid,Product,5,67.79,1,0,Purchased
+291,55+,Germany,Desktop,Social,About Us,6,84.23,1,0,Visited Page
+292,45-54,Canada,Mobile,Referral,Product,4,216.71,0,0,Checkout
+293,25-34,Canada,Tablet,Social,Blog,4,285.88,0,0,Purchased
+294,25-34,Australia,Tablet,Social,About Us,7,152.8,0,0,Visited Page
+295,35-44,Canada,Desktop,Paid,Product,6,153.63,0,0,Purchased
+296,18-24,Canada,Mobile,Referral,Home,1,69.71,0,1,Added to Cart
+297,55+,India,Desktop,Social,Contact,7,242.87,0,1,Added to Cart
+298,25-34,India,Tablet,Paid,About Us,5,207.39,0,0,Visited Page
+299,35-44,Canada,Mobile,Referral,Product,2,274.2,0,1,Checkout
+300,25-34,Australia,Mobile,Paid,Product,1,130.23,0,0,Visited Page
+301,45-54,Canada,Tablet,Social,About Us,7,22.34,1,1,Visited Page
+302,18-24,Germany,Mobile,Referral,Product,6,265.65,0,0,Visited Page
+303,18-24,India,Mobile,Social,Contact,1,278.72,1,0,Added to Cart
+304,55+,Germany,Mobile,Organic,About Us,8,230.42,0,0,Visited Page
+305,55+,India,Desktop,Social,Home,8,291.88,1,1,Added to Cart
+306,18-24,Canada,Mobile,Paid,Product,8,75.79,0,1,Visited Page
+307,55+,UK,Tablet,Social,Product,8,79.22,1,0,Visited Page
+308,45-54,USA,Mobile,Social,Blog,5,63.73,1,1,Checkout
+309,25-34,Australia,Mobile,Social,Contact,6,294.8,0,0,Purchased
+310,35-44,Australia,Desktop,Social,Product,2,217.72,1,0,Added to Cart
+311,25-34,Canada,Mobile,Paid,About Us,6,105.71,1,0,Visited Page
+312,18-24,Germany,Desktop,Organic,Blog,6,32.68,0,0,Added to Cart
+313,35-44,India,Tablet,Referral,About Us,8,256.41,0,0,Visited Page
+314,45-54,India,Mobile,Social,Blog,4,253.81,1,0,Visited Page
+315,18-24,UK,Desktop,Organic,About Us,3,290.51,0,0,Purchased
+316,55+,Australia,Desktop,Social,Product,7,110.57,1,1,Visited Page
+317,45-54,USA,Desktop,Organic,Product,9,283.15,0,1,Checkout
+318,45-54,Canada,Desktop,Paid,Product,7,94.67,0,0,Visited Page
+319,25-34,USA,Mobile,Organic,Blog,7,274.8,1,0,Purchased
+320,35-44,Australia,Desktop,Organic,About Us,9,224.48,0,0,Purchased
+321,25-34,India,Desktop,Paid,Product,6,131.69,0,0,Added to Cart
+322,55+,USA,Desktop,Paid,Contact,9,199.74,0,0,Checkout
+323,55+,Australia,Tablet,Organic,Blog,4,230.39,1,0,Checkout
+324,45-54,Australia,Mobile,Organic,Contact,4,50.9,0,0,Purchased
+325,25-34,Germany,Tablet,Referral,Home,3,222.8,0,0,Purchased
+326,35-44,Australia,Tablet,Referral,Product,3,15.0,0,1,Visited Page
+327,18-24,Australia,Tablet,Organic,About Us,5,53.63,0,1,Visited Page
+328,55+,UK,Desktop,Social,About Us,6,187.12,1,0,Purchased
+329,25-34,Canada,Tablet,Referral,Contact,5,275.24,0,0,Visited Page
+330,55+,USA,Desktop,Social,About Us,6,208.24,1,0,Purchased
+331,55+,USA,Tablet,Organic,About Us,1,125.87,1,0,Purchased
+332,18-24,USA,Tablet,Referral,Product,5,89.22,0,0,Checkout
+333,55+,India,Desktop,Paid,Contact,8,219.22,0,0,Visited Page
+334,45-54,Australia,Tablet,Paid,Blog,2,42.69,0,0,Added to Cart
+335,35-44,USA,Tablet,Organic,Blog,6,272.89,0,0,Visited Page
+336,45-54,Germany,Mobile,Social,About Us,4,128.69,0,0,Added to Cart
+337,25-34,USA,Mobile,Referral,Home,3,230.39,0,0,Added to Cart
+338,45-54,USA,Tablet,Organic,Product,6,132.67,0,1,Checkout
+339,18-24,Australia,Mobile,Social,About Us,1,107.19,0,0,Checkout
+340,25-34,Canada,Tablet,Paid,Product,4,211.54,0,0,Visited Page
+341,35-44,India,Mobile,Organic,Contact,7,186.83,0,1,Visited Page
+342,55+,USA,Desktop,Social,Product,8,186.36,1,0,Purchased
+343,35-44,UK,Tablet,Organic,About Us,1,191.14,0,0,Visited Page
+344,45-54,UK,Tablet,Social,Contact,8,63.78,0,0,Purchased
+345,25-34,India,Mobile,Referral,Home,6,259.92,1,1,Visited Page
+346,55+,UK,Desktop,Paid,Product,1,48.31,1,0,Checkout
+347,18-24,India,Desktop,Social,Contact,3,79.75,0,0,Visited Page
+348,35-44,USA,Tablet,Paid,About Us,7,205.99,1,0,Visited Page
+349,35-44,Germany,Tablet,Organic,Blog,5,286.61,0,0,Visited Page
+350,35-44,Canada,Tablet,Organic,About Us,1,90.47,0,0,Visited Page
+351,25-34,UK,Tablet,Social,Home,5,99.19,0,0,Purchased
+352,35-44,Germany,Tablet,Social,Home,4,263.93,1,0,Visited Page
+353,55+,Germany,Desktop,Social,Blog,8,190.52,0,1,Checkout
+354,25-34,Germany,Mobile,Social,Blog,4,270.05,1,0,Purchased
+355,45-54,India,Mobile,Referral,Blog,7,70.55,0,0,Purchased
+356,35-44,Canada,Tablet,Referral,Contact,4,51.37,0,0,Visited Page
+357,25-34,UK,Desktop,Referral,Product,1,20.3,0,0,Added to Cart
+358,25-34,Canada,Tablet,Organic,Product,5,55.94,0,1,Visited Page
+359,35-44,Canada,Tablet,Social,Contact,8,289.67,0,0,Added to Cart
+360,35-44,Australia,Desktop,Paid,Product,7,212.47,0,1,Visited Page
+361,18-24,Australia,Mobile,Referral,Home,2,196.18,0,0,Visited Page
+362,18-24,USA,Mobile,Paid,Product,6,193.9,1,1,Visited Page
+363,55+,UK,Mobile,Paid,Product,5,108.31,1,0,Visited Page
+364,35-44,UK,Desktop,Organic,Home,5,191.27,0,1,Purchased
+365,45-54,Germany,Tablet,Paid,Home,5,76.78,0,0,Checkout
+366,35-44,Australia,Desktop,Social,Contact,4,157.71,1,0,Added to Cart
+367,45-54,Germany,Tablet,Organic,Contact,6,14.22,0,0,Checkout
+368,18-24,UK,Desktop,Paid,Contact,6,67.45,0,0,Added to Cart
+369,18-24,Germany,Desktop,Paid,Contact,3,129.74,0,0,Visited Page
+370,55+,India,Mobile,Paid,Blog,3,38.98,0,0,Checkout
+371,25-34,USA,Mobile,Social,Contact,2,101.59,0,1,Visited Page
+372,35-44,Canada,Desktop,Social,Contact,1,280.5,1,0,Visited Page
+373,55+,Canada,Tablet,Organic,Blog,8,193.94,1,0,Added to Cart
+374,18-24,UK,Desktop,Social,Contact,7,14.07,0,0,Visited Page
+375,18-24,Germany,Mobile,Organic,Blog,7,271.38,0,0,Added to Cart
+376,55+,USA,Mobile,Organic,Product,9,120.12,0,0,Visited Page
+377,18-24,Germany,Tablet,Social,Contact,2,278.06,0,0,Checkout
+378,18-24,Australia,Desktop,Referral,Blog,6,266.09,1,0,Purchased
+379,35-44,Germany,Tablet,Referral,Blog,3,281.08,1,0,Purchased
+380,35-44,Australia,Mobile,Organic,About Us,1,254.5,0,1,Purchased
+381,55+,UK,Desktop,Paid,Blog,9,187.91,0,0,Added to Cart
+382,45-54,Canada,Mobile,Social,About Us,9,111.29,0,0,Visited Page
+383,35-44,Canada,Desktop,Referral,Home,9,130.05,1,0,Visited Page
+384,35-44,USA,Tablet,Organic,Contact,6,42.58,0,0,Added to Cart
+385,18-24,USA,Mobile,Referral,Product,9,227.08,0,1,Checkout
+386,18-24,UK,Tablet,Paid,Blog,2,121.42,0,0,Visited Page
+387,25-34,Australia,Mobile,Paid,Blog,8,91.3,1,0,Visited Page
+388,45-54,Canada,Tablet,Social,Home,9,273.14,0,0,Added to Cart
+389,55+,Germany,Tablet,Organic,About Us,6,116.58,0,1,Checkout
+390,25-34,USA,Tablet,Organic,Blog,9,18.31,0,0,Purchased
+391,25-34,Canada,Tablet,Paid,Product,2,101.24,0,1,Added to Cart
+392,45-54,USA,Tablet,Paid,About Us,5,261.72,0,0,Purchased
+393,18-24,Australia,Mobile,Referral,About Us,1,69.8,0,0,Visited Page
+394,18-24,Australia,Desktop,Paid,Contact,1,64.19,0,0,Added to Cart
+395,45-54,Germany,Desktop,Social,Contact,4,87.72,0,0,Visited Page
+396,45-54,Australia,Desktop,Social,Product,9,72.84,0,1,Added to Cart
+397,55+,Germany,Desktop,Organic,Product,6,65.14,1,1,Visited Page
+398,25-34,Germany,Desktop,Referral,Blog,5,249.91,1,0,Visited Page
+399,35-44,UK,Mobile,Paid,Blog,3,200.2,1,0,Purchased
+400,25-34,India,Desktop,Paid,Blog,2,205.13,0,1,Purchased
+401,35-44,India,Desktop,Organic,Blog,9,148.65,0,0,Added to Cart
+402,55+,Germany,Desktop,Paid,Contact,9,23.64,0,0,Added to Cart
+403,55+,Germany,Tablet,Organic,About Us,6,168.37,0,0,Added to Cart
+404,18-24,Germany,Tablet,Organic,Product,9,72.53,1,0,Purchased
+405,45-54,USA,Mobile,Referral,About Us,3,54.07,1,0,Visited Page
+406,55+,Germany,Tablet,Organic,Blog,4,37.26,1,1,Visited Page
+407,55+,India,Tablet,Referral,About Us,3,113.32,1,1,Visited Page
+408,25-34,India,Desktop,Organic,Product,1,57.95,1,0,Visited Page
+409,18-24,USA,Mobile,Social,Home,5,148.48,1,0,Checkout
+410,18-24,UK,Desktop,Paid,Contact,9,228.99,0,0,Added to Cart
+411,35-44,Germany,Desktop,Referral,Blog,2,171.14,0,0,Visited Page
+412,35-44,Canada,Desktop,Social,Blog,4,225.89,0,0,Added to Cart
+413,55+,Germany,Tablet,Organic,About Us,8,220.29,0,0,Visited Page
+414,35-44,Germany,Mobile,Referral,Product,2,86.78,1,0,Visited Page
+415,35-44,Canada,Mobile,Referral,Product,3,197.59,1,1,Visited Page
+416,55+,Australia,Mobile,Paid,About Us,2,124.83,1,1,Visited Page
+417,18-24,USA,Tablet,Organic,Contact,4,166.75,0,0,Purchased
+418,55+,UK,Desktop,Referral,About Us,1,193.44,0,0,Purchased
+419,55+,India,Desktop,Organic,Home,5,289.08,1,0,Checkout
+420,35-44,India,Mobile,Paid,Product,5,80.45,0,0,Checkout
+421,25-34,Canada,Tablet,Paid,About Us,4,65.33,1,0,Visited Page
+422,18-24,UK,Tablet,Organic,Contact,5,287.68,1,0,Added to Cart
+423,35-44,India,Mobile,Paid,Home,7,216.15,0,0,Visited Page
+424,18-24,UK,Desktop,Organic,Contact,3,25.22,1,0,Visited Page
+425,35-44,Germany,Tablet,Paid,About Us,5,72.89,0,0,Visited Page
+426,25-34,India,Tablet,Organic,Product,6,20.56,1,0,Purchased
+427,18-24,Germany,Tablet,Social,Contact,9,49.66,0,0,Purchased
+428,55+,UK,Tablet,Paid,About Us,4,274.46,1,0,Added to Cart
+429,45-54,Germany,Desktop,Referral,Contact,9,82.08,1,1,Checkout
+430,55+,UK,Mobile,Social,Product,3,135.18,0,0,Added to Cart
+431,18-24,USA,Desktop,Paid,Blog,8,123.35,0,1,Visited Page
+432,35-44,USA,Mobile,Organic,Contact,4,32.48,1,1,Visited Page
+433,35-44,USA,Desktop,Social,Product,3,123.08,0,0,Visited Page
+434,45-54,India,Desktop,Paid,Blog,3,234.36,1,0,Checkout
+435,35-44,Germany,Tablet,Organic,Contact,2,117.98,0,0,Visited Page
+436,55+,Germany,Tablet,Paid,Contact,2,279.98,1,0,Visited Page
+437,45-54,India,Mobile,Organic,Home,7,179.0,0,1,Visited Page
+438,45-54,Australia,Mobile,Paid,About Us,3,58.35,0,0,Purchased
+439,55+,USA,Desktop,Social,Product,1,229.25,1,1,Added to Cart
+440,45-54,India,Tablet,Referral,Product,3,180.93,0,0,Visited Page
+441,25-34,Canada,Mobile,Organic,About Us,2,70.93,0,0,Visited Page
+442,35-44,Germany,Tablet,Paid,Home,6,220.15,1,0,Visited Page
+443,25-34,UK,Tablet,Organic,Home,5,150.19,0,0,Purchased
+444,18-24,Australia,Mobile,Organic,Home,5,39.92,1,0,Visited Page
+445,25-34,India,Desktop,Referral,About Us,6,44.13,1,0,Visited Page
+446,18-24,Australia,Desktop,Paid,Product,5,52.64,1,0,Visited Page
+447,55+,Canada,Mobile,Referral,About Us,1,77.5,1,0,Checkout
+448,18-24,Australia,Mobile,Social,About Us,3,292.38,0,1,Visited Page
+449,18-24,UK,Mobile,Paid,About Us,5,81.43,0,0,Checkout
+450,18-24,Australia,Tablet,Referral,Blog,2,185.69,1,0,Purchased
+451,55+,Germany,Tablet,Social,Contact,6,270.8,0,0,Checkout
+452,45-54,Australia,Tablet,Referral,About Us,6,211.56,0,0,Purchased
+453,55+,Australia,Tablet,Social,About Us,9,132.59,0,0,Visited Page
+454,18-24,India,Desktop,Social,Product,9,230.62,0,0,Visited Page
+455,35-44,Canada,Desktop,Referral,Product,3,10.04,1,0,Visited Page
+456,25-34,USA,Tablet,Social,About Us,9,254.13,0,1,Visited Page
+457,18-24,Australia,Mobile,Organic,Contact,8,220.53,0,0,Visited Page
+458,55+,Canada,Desktop,Paid,About Us,7,145.94,0,0,Visited Page
+459,18-24,Canada,Mobile,Referral,Contact,4,269.46,1,0,Visited Page
+460,25-34,Canada,Desktop,Referral,Blog,1,281.33,0,0,Visited Page
+461,55+,Germany,Desktop,Organic,About Us,6,21.0,0,0,Visited Page
+462,18-24,India,Desktop,Social,About Us,3,147.28,0,0,Purchased
+463,35-44,USA,Mobile,Referral,Contact,9,105.63,0,0,Visited Page
+464,18-24,Canada,Mobile,Organic,About Us,7,70.57,0,0,Checkout
+465,55+,Germany,Tablet,Paid,Home,3,29.78,0,0,Visited Page
+466,55+,USA,Tablet,Social,Home,3,214.31,0,0,Added to Cart
+467,35-44,USA,Tablet,Organic,Blog,8,293.1,0,1,Visited Page
+468,25-34,India,Tablet,Referral,About Us,3,160.49,0,0,Visited Page
+469,18-24,UK,Mobile,Social,Blog,1,72.48,0,0,Visited Page
+470,35-44,Canada,Desktop,Organic,About Us,3,225.5,0,0,Checkout
+471,35-44,Germany,Desktop,Social,Blog,7,140.33,0,0,Purchased
+472,55+,USA,Mobile,Referral,Product,6,16.9,0,0,Visited Page
+473,25-34,UK,Desktop,Organic,Home,4,237.52,0,1,Visited Page
+474,55+,Australia,Desktop,Referral,Blog,7,103.45,0,0,Visited Page
+475,55+,India,Tablet,Social,Blog,3,120.54,1,0,Added to Cart
+476,18-24,USA,Desktop,Social,About Us,3,65.78,0,0,Purchased
+477,18-24,India,Mobile,Referral,Product,4,258.87,0,0,Added to Cart
+478,45-54,UK,Tablet,Organic,Home,2,186.89,0,0,Visited Page
+479,45-54,UK,Tablet,Referral,Product,1,163.89,1,0,Added to Cart
+480,25-34,Germany,Tablet,Paid,Contact,5,26.21,0,0,Visited Page
+481,55+,UK,Mobile,Referral,Home,9,241.14,1,0,Added to Cart
+482,25-34,Canada,Mobile,Organic,About Us,3,284.7,1,0,Checkout
+483,55+,USA,Mobile,Paid,About Us,9,199.79,0,0,Visited Page
+484,18-24,Germany,Tablet,Referral,About Us,2,135.78,0,0,Visited Page
+485,55+,Germany,Tablet,Referral,About Us,9,97.39,1,0,Visited Page
+486,18-24,Canada,Mobile,Paid,Home,4,132.82,1,0,Added to Cart
+487,25-34,Germany,Desktop,Referral,Blog,2,21.34,1,0,Visited Page
+488,18-24,India,Desktop,Social,Home,6,139.82,0,0,Visited Page
+489,55+,India,Desktop,Referral,About Us,3,24.6,0,0,Purchased
+490,45-54,Canada,Mobile,Social,Home,9,32.72,0,0,Visited Page
+491,18-24,USA,Mobile,Social,Contact,3,217.15,1,0,Visited Page
+492,18-24,Germany,Desktop,Organic,Home,3,40.04,0,0,Checkout
+493,25-34,USA,Tablet,Organic,Product,5,119.52,0,0,Visited Page
+494,35-44,Australia,Desktop,Social,Product,3,50.29,1,0,Purchased
+495,18-24,USA,Desktop,Social,About Us,3,283.94,0,0,Purchased
+496,25-34,Germany,Mobile,Organic,Contact,6,298.03,1,0,Visited Page
+497,45-54,Canada,Desktop,Organic,Product,3,177.4,0,0,Visited Page
+498,25-34,Australia,Mobile,Social,Blog,7,144.12,1,0,Purchased
+499,25-34,Australia,Mobile,Organic,Product,6,271.7,1,0,Added to Cart
+500,45-54,UK,Mobile,Social,Product,7,294.52,1,0,Purchased
